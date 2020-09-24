@@ -1,0 +1,1 @@
+This folder contains the video and code of our SoC group project
